@@ -2,7 +2,6 @@
     {
         "package": "ggplot2",
         "url": "https://github.com/tidyverse/ggplot2",
-        "branch": "v3.3.3"
     },
     {
         "package": "ggseg",
