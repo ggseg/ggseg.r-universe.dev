@@ -54,6 +54,10 @@
     {
         "package": "ggsegHO",
         "url": "https://github.com/ggseg/ggsegHO"
+    },
+    {
+        "package": "ggsegBrainnetome",
+        "url": "https://github.com/ggseg/ggsegBrainnetome"
     }
 ]
 
