@@ -58,6 +58,30 @@
     {
         "package": "ggsegBrainnetome",
         "url": "https://github.com/ggseg/ggsegBrainnetome"
+    },
+    {
+        "package": "ggsegPower",
+        "url": "https://github.com/ggseg/ggsegPower"
+    },
+    {
+        "package": "ggsegAal",
+        "url": "https://github.com/ggseg/ggsegAal"
+    },
+    {
+        "package": "ggsegIca",
+        "url": "https://github.com/ggseg/ggsegIca",
+        ,
+    {
+        "package": "ggsegAicha",
+        "url": "https://github.com/ggseg/ggsegAicha"
+    },
+    {
+        "package": "ggsegGordon",
+        "url": "https://github.com/ggseg/ggsegGordon"
+    },
+    {
+        "package": "ggsegArslan",
+        "url": "https://github.com/ggseg/ggsegArslan"
     }
 ]
 
