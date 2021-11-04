@@ -82,6 +82,14 @@
     {
         "package": "ggsegArslan",
         "url": "https://github.com/ggseg/ggsegArslan"
+    },
+    {
+        "package": "ggsegBrodmann",
+        "url": "https://github.com/ggseg/ggsegBrodmann"
+    },
+    {
+        "package": "ggsegCampbell",
+        "url": "https://github.com/ggseg/ggsegCampbell"
     }
 ]
 
