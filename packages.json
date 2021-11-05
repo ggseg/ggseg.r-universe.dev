@@ -94,6 +94,14 @@
     {
         "package": "ggsegKleist",
         "url": "https://github.com/ggseg/ggsegKleist"
+    },
+    {
+        "package": "ggsegFlechsig",
+        "url": "https://github.com/ggseg/ggsegFlechsig"
+    },
+    {
+        "package": "ggsegEconomo",
+        "url": "https://github.com/ggseg/ggsegEconomo"
     }
 ]
 
