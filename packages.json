@@ -90,6 +90,10 @@
     {
         "package": "ggsegCampbell",
         "url": "https://github.com/ggseg/ggsegCampbell"
+    },
+    {
+        "package": "ggsegKleist",
+        "url": "https://github.com/ggseg/ggsegKleist"
     }
 ]
 
