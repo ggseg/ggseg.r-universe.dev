@@ -110,5 +110,6 @@
     {
         "package": "rdgal",
         "url": "https://github.com/cran/rgdal"
+    }
 ]
 
