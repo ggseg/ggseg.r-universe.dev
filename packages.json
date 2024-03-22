@@ -106,6 +106,9 @@
     {
         "package": "freesurfer",
         "url": "https://github.com/muschellij2/freesurfer"
-    }
+    },
+    {
+        "package": "rdgal",
+        "url": "https://github.com/cran/rgdal"
 ]
 
