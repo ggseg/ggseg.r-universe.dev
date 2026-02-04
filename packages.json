@@ -105,11 +105,8 @@
     },
     {
         "package": "freesurfer",
-        "url": "https://github.com/muschellij2/freesurfer"
-    },
-    {
-        "package": "rgdal",
-        "url": "https://github.com/cran/rgdal"
+        "url": "https://github.com/drmowinckels/freesurfer",
+        "branch": "refactor"
     }
 ]
 
