@@ -12,6 +12,10 @@
         "url": "https://github.com/ggseg/ggsegExtra"
     },
     {
+        "package": "ggseg.formats",
+        "url": "https://github.com/ggseg/ggseg.formats"
+    },
+    {
         "package": "ggsegYeo2011",
         "url": "https://github.com/ggseg/ggsegYeo2011"
     },
