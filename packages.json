@@ -32,10 +32,6 @@
         "url": "https://github.com/ggseg/ggsegDesterieux"
     },
     {
-        "package": "ggsegDefaultExtra",
-        "url": "https://github.com/ggseg/ggsegDefaultExtra"
-    },
-    {
         "package": "ggsegChen",
         "url": "https://github.com/ggseg/ggsegChen"
     },
