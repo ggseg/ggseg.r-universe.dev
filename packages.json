@@ -1,5 +1,9 @@
 [
     {
+        "package": "ggseg.formats",
+        "url": "https://github.com/ggseg/ggseg.formats"
+    },
+    {
         "package": "ggseg",
         "url": "https://github.com/ggseg/ggseg"
     },
@@ -12,8 +16,16 @@
         "url": "https://github.com/ggseg/ggsegExtra"
     },
     {
-        "package": "ggseg.formats",
-        "url": "https://github.com/ggseg/ggseg.formats"
+        "package": "ggseg.hub",
+        "url": "https://github.com/ggseg/ggseg.hub"
+    },
+    {
+        "package": "neuromapr",
+        "url": "https://github.com/lcbc-uio/neuromapr"
+    },
+    {
+        "package": "wbcmd",
+        "url": "https://github.com/lcbc-uio/wbcmd"
     },
     {
         "package": "ggsegYeo2011",
