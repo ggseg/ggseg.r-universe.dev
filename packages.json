@@ -12,8 +12,8 @@
         "url": "https://github.com/ggseg/ggseg3d"
     },
     {
-        "package": "ggsegExtra",
-        "url": "https://github.com/ggseg/ggsegExtra"
+        "package": "ggseg.extra",
+        "url": "https://github.com/ggseg/ggseg.extra"
     },
     {
         "package": "ggseg.hub",
