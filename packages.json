@@ -44,10 +44,6 @@
         "url": "https://github.com/ggsegverse/ggsegChen"
     },
     {
-        "package": "ggsegTracula",
-        "url": "https://github.com/ggsegverse/ggsegTracula"
-    },
-    {
         "package": "ggsegJHU",
         "url": "https://github.com/ggsegverse/ggsegJHU"
     },
