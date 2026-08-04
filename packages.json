@@ -1,104 +1,99 @@
 [
-    {
-        "package": "ggseg.formats",
-        "url": "https://github.com/ggsegverse/ggseg.formats"
-    },
-    {
-        "package": "ggseg.meshes",
-        "url": "https://github.com/ggsegverse/ggseg.meshes"
-    },
-    {
-        "package": "ggseg",
-        "url": "https://github.com/ggsegverse/ggseg"
-    },
-    {
-        "package": "ggseg3d",
-        "url": "https://github.com/ggsegverse/ggseg3d"
-    },
-    {
-        "package": "ggseg.extra",
-        "url": "https://github.com/ggsegverse/ggseg.extra"
-    },
-    {
-        "package": "neuromapr",
-        "url": "https://github.com/lcbc-uio/neuromapr"
-    },
-    {
-        "package": "wbcmd",
-        "url": "https://github.com/lcbc-uio/wbcmd"
-    },
-    {
-        "package": "ggsegYeo2011",
-        "url": "https://github.com/ggsegverse/ggsegYeo2011"
-    },
-    {
-        "package": "ggsegSchaefer",
-        "url": "https://github.com/ggsegverse/ggsegSchaefer"
-    },
-    {
-        "package": "ggsegGlasser",
-        "url": "https://github.com/ggsegverse/ggsegGlasser"
-    },
-    {
-        "package": "ggsegChen",
-        "url": "https://github.com/ggsegverse/ggsegChen"
-    },
-    {
-        "package": "ggsegJHU",
-        "url": "https://github.com/ggsegverse/ggsegJHU"
-    },
-    {
-        "package": "ggsegHO",
-        "url": "https://github.com/ggsegverse/ggsegHO"
-    },
-    {
-        "package": "ggsegBrainnetome",
-        "url": "https://github.com/ggsegverse/ggsegBrainnetome"
-    },
-    {
-        "package": "ggsegPower",
-        "url": "https://github.com/ggsegverse/ggsegPower"
-    },
-    {
-        "package": "ggsegAAL",
-        "url": "https://github.com/ggsegverse/ggsegAal"
-    },
-    {
-        "package": "ggsegIca",
-        "url": "https://github.com/ggsegverse/ggsegIca"
-    },
-    {
-        "package": "ggsegAicha",
-        "url": "https://github.com/ggsegverse/ggsegAicha"
-    },
-    {
-        "package": "ggsegGordon",
-        "url": "https://github.com/ggsegverse/ggsegGordon"
-    },
-    {
-        "package": "ggsegArslan",
-        "url": "https://github.com/ggsegverse/ggsegArslan"
-    },
-    {
-        "package": "ggsegFreeSurfer",
-        "url": "https://github.com/ggsegverse/ggsegFreeSurfer"
-    },
-    {
-        "package": "ggsegHistorical",
-        "url": "https://github.com/ggsegverse/ggsegHistorical"
-    },
-    {
-        "package": "freesurfer",
-        "url": "https://github.com/drmowinckels/freesurfer",
-        "branch": "refactor"
-    },
-    {
-        "package": "ggsegSUIT",
-        "url": "https://github.com/ggsegverse/ggsegSUIT"
-    },
-    {
-        "package": "ggsegCerebellum",
-        "url": "https://github.com/ggsegverse/ggsegCerebellum"
-    }
+  {
+    "package": "ggseg.formats",
+    "url": "https://github.com/ggsegverse/ggseg.formats"
+  },
+  {
+    "package": "ggseg.meshes",
+    "url": "https://github.com/ggsegverse/ggseg.meshes"
+  },
+  {
+    "package": "ggseg",
+    "url": "https://github.com/ggsegverse/ggseg"
+  },
+  {
+    "package": "ggseg3d",
+    "url": "https://github.com/ggsegverse/ggseg3d"
+  },
+  {
+    "package": "ggseg.extra",
+    "url": "https://github.com/ggsegverse/ggseg.extra"
+  },
+  {
+    "package": "neuromapr",
+    "url": "https://github.com/lcbc-uio/neuromapr"
+  },
+  {
+    "package": "wbcmd",
+    "url": "https://github.com/lcbc-uio/wbcmd"
+  },
+  {
+    "package": "ggsegYeo2011",
+    "url": "https://github.com/ggsegverse/ggsegYeo2011"
+  },
+  {
+    "package": "ggsegSchaefer",
+    "url": "https://github.com/ggsegverse/ggsegSchaefer"
+  },
+  {
+    "package": "ggsegGlasser",
+    "url": "https://github.com/ggsegverse/ggsegGlasser"
+  },
+  {
+    "package": "ggsegChen",
+    "url": "https://github.com/ggsegverse/ggsegChen"
+  },
+  {
+    "package": "ggsegJHU",
+    "url": "https://github.com/ggsegverse/ggsegJHU"
+  },
+  {
+    "package": "ggsegHO",
+    "url": "https://github.com/ggsegverse/ggsegHO"
+  },
+  {
+    "package": "ggsegBrainnetome",
+    "url": "https://github.com/ggsegverse/ggsegBrainnetome"
+  },
+  {
+    "package": "ggsegPower",
+    "url": "https://github.com/ggsegverse/ggsegPower"
+  },
+  {
+    "package": "ggsegAAL",
+    "url": "https://github.com/ggsegverse/ggsegAal"
+  },
+  {
+    "package": "ggsegIca",
+    "url": "https://github.com/ggsegverse/ggsegIca"
+  },
+  {
+    "package": "ggsegAicha",
+    "url": "https://github.com/ggsegverse/ggsegAicha"
+  },
+  {
+    "package": "ggsegGordon",
+    "url": "https://github.com/ggsegverse/ggsegGordon"
+  },
+  {
+    "package": "ggsegArslan",
+    "url": "https://github.com/ggsegverse/ggsegArslan"
+  },
+  {
+    "package": "ggsegFreeSurfer",
+    "url": "https://github.com/ggsegverse/ggsegFreeSurfer"
+  },
+  {
+    "package": "ggsegHistorical",
+    "url": "https://github.com/ggsegverse/ggsegHistorical"
+  },
+  {
+    "package": "freesurfer",
+    "url": "https://github.com/drmowinckels/freesurfer",
+    "branch": "refactor"
+  },
+  {
+    "package": "ggsegCerebellum",
+    "url": "https://github.com/ggsegverse/ggsegCerebellum"
+  }
 ]
-
