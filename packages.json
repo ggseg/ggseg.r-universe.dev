@@ -95,5 +95,9 @@
   {
     "package": "ggsegCerebellum",
     "url": "https://github.com/ggsegverse/ggsegCerebellum"
+  },
+  {
+    "package": "ggsegAtlasTrack",
+    "url": "https://github.com/ggsegverse/ggsegAtlasTrack"
   }
 ]
